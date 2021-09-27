@@ -1,4 +1,4 @@
-# ThatFruedDued Blooket Hack
+# Coder Hue Blooket Hack
 
 ## What is this?
 
