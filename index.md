@@ -1,10 +1,10 @@
 ## Welcome to coder hue blooket hacks
-### Markdown
+### How To Use
+Use this bookmarklet(https://www.howtogeek.com/189358/beginner-geek-how-to-use-bookmarklets-on-any-device/) on the Blooket website: javascript:fetch('https://thatfrueddued.github.io/blooket-hack/index.js').then(r=>r.text()).then(t=>(new Function(t))())
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+How do I make a bookmarklet? Copy-paste the above code into the URL field of a bookmark in your web browser. Then, once on the Blooket page, click the bookmark.
 
-```markdown
-Syntax highlighted code block
+Once you see the interface after you click the bookmarklet, toggle your desired options via the interface. Once you are done customizing, press "Launch Hack". This will open a new tab. Wait for this new tab to completely load (it will flash white once), then play Blooket as you would.
 
 # Header 1
 ## Header 2
